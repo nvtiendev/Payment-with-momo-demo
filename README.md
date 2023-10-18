@@ -22,8 +22,9 @@ Dự án demo về thanh toán bằng MOMO sử dụng tài khoản thử nghi�
    ***ở file settings.gradle.kts***
    ![import2](https://github.com/nvtiendev/Payment/blob/main/import2.png)
    
-   ##Bắt đầu
-   ***và sau khi đã cài đặt xong thì hãy tạo 1 button ở layout như hình đó***
+##Bắt đầu
+   
+   ***Và sau khi đã cài đặt xong thì hãy tạo 1 button ở layout như hình đó***
    ![Layout](https://github.com/nvtiendev/Payment/blob/main/button.png)
    
    ***tiếp đó ta sẽ cài đặt MainActivity***
@@ -33,3 +34,4 @@ Dự án demo về thanh toán bằng MOMO sử dụng tài khoản thử nghi�
    
    ![MainActivity3](https://github.com/nvtiendev/Payment/blob/main/MainActivity3.png)
 
+***và sau đó hãy chạy thử để test***
