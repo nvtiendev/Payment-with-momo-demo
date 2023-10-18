@@ -15,22 +15,21 @@ Dự án demo về thanh toán bằng MOMO sử dụng tài khoản thử nghi�
 2. **Import SDK vào dự án**: 
    Truy cập [GitHub repository của MOMO SDK](https://github.com/momo-wallet/mobile-sdk) để import SDK vào dự án của bạn.
    
-   Ở đây tôi import theo android studio của tôi nên có thể hỏi khác so với link từ MOMO SDK
+   ***Ở đây tôi import theo android studio của tôi nên có thể hỏi khác so với link từ MOMO SDK***
    
-   ở file build.gradle.kts(Module:app)
-   ![import1](https://github.com/nvtiendev/Payment/blob/main/import1.png).
-   ở file settings.gradle.kts
-   ![import2](https://github.com/nvtiendev/Payment/blob/main/import2.png).
+   ***ở file build.gradle.kts(Module:app)***
+   ![import1](https://github.com/nvtiendev/Payment/blob/main/import1.png)
+   ***ở file settings.gradle.kts***
+   ![import2](https://github.com/nvtiendev/Payment/blob/main/import2.png)
    
-   
-   và sau khi đã cài đặt xong thì hãy tạo 1 button ở layout như hình đó
+   ##Bắt đầu
+   ***và sau khi đã cài đặt xong thì hãy tạo 1 button ở layout như hình đó***
    ![Layout](https://github.com/nvtiendev/Payment/blob/main/button.png)
    
-   tiếp đó ta sẽ cài đặt MainActivity
-   ![MainActivity](https://github.com/nvtiendev/Payment/blob/main/MainActivity.png).
+   ***tiếp đó ta sẽ cài đặt MainActivity***
+   ![MainActivity](https://github.com/nvtiendev/Payment/blob/main/MainActivity.png)
    
-   ![MainActivity2](https://github.com/nvtiendev/Payment/blob/main/MainActivity2.png).
+   ![MainActivity2](https://github.com/nvtiendev/Payment/blob/main/MainActivity2.png)
    
-   ![MainActivity3](https://github.com/nvtiendev/Payment/blob/main/MainActivity3.png).
+   ![MainActivity3](https://github.com/nvtiendev/Payment/blob/main/MainActivity3.png)
 
-## Bắt đầu
