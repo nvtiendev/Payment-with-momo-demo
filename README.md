@@ -15,7 +15,7 @@ Dự án demo về thanh toán bằng MOMO sử dụng tài khoản thử nghi�
 2. **Import SDK vào dự án**: 
    Truy cập [GitHub repository của MOMO SDK](https://github.com/momo-wallet/mobile-sdk) để import SDK vào dự án của bạn.
    
-   ***Ở đây tôi import theo android studio của tôi nên có thể hỏi khác so với link từ MOMO SDK***
+   ***Ở đây tôi import theo android studio của tôi nên có thể hơi khác so với link từ MOMO SDK***
    
    ***ở file build.gradle.kts(Module:app)***
    ![import1](https://github.com/nvtiendev/Payment/blob/main/import1.png)
